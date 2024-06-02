@@ -1,0 +1,10 @@
+Insights
+
+1. The total number of units sold is 214k
+2. The total revenue generated is approx. 698.81k
+3. Average order value is $4.69
+4. Starting from January the revenue increased gradually and almost doubled in the month of June, which signifies that the business is growing with a good pace.
+5. Stores in all three locations are doing equally well and contributing equally in the revenue. 
+6. Coffee and Tea are the hero categories as these contribute to almost 67% of total revenue
+7. Brewed Chai Tea, Gourmet Brewed Coffee, Barista Espresso, Brewed Black Tea, Hot Chocolate are the top 5 most selling and highest revenue generating products.
+8. Morning is the hot time as more than 50% of revenue is generated in this time period and gradually it decreases. Afternoon and evening have almost equal contribution in revenue and the night time period generates the least revenue. 
